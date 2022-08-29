@@ -13,5 +13,4 @@ Interpretar os dados, analisar resultados e utilizar as técnicas necessarias pa
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Imagens/powerquery.png)
 ## Implementações Futuras
 Em construção proximo estudo.
-! []()
 
