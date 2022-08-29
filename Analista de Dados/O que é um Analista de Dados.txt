@@ -1,0 +1,10 @@
+Os Analistas de Dados traduzem dados para informações, ajudar as empresas a entender como tomar melhores decisões de negócios.
+
+Usa diversas técnicas e ferramentas, um Analista de Dados resolve problemas ou responde varias perguntas baseadas em dados detectar padrões e anomalias, resumir e agregar os dados 
+e apresentar seus resultados de forma clara e objetiva.
+
+Os Analistas de Dados precisam ter a capacidade não apenas de decifrar os dados, mas também de relatar e explicar o que as diferenças nos números significam quando analisadas de ano 
+para ano ou entre vários departamentos.
+
+ Como os Analistas de Dados geralmente são os que melhor entendem porque os números são do jeito que são, eles costumam ser solicitados a aconselhar os gerentes
+ de projeto e chefes de departamento a respeito de certos pontos de dados e como eles podem ser alterados ou aprimorados ao longo de um período de tempo.
