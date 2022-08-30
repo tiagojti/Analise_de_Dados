@@ -12,5 +12,5 @@ Interpretar os dados, analisar resultados e utilizar as técnicas necessarias pa
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Imagens/SQL.png)
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Imagens/powerquery.png)
 ## Implementações Futuras
-Em construção proximos estudos.
+![](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
