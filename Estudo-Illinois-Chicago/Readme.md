@@ -1,6 +1,6 @@
 # Illinois-Chicago
 
-Analise de Dados de crimes violentos no estado de Illinois/Chicago.
+Analise de Dados de crimes violentos no estado de Illinois/Chicago, motivado pelo alto índice na região.
 
 ## Segue o estudo abaixo, se preferi pode baixar e acessar o arquivo(Chicago_violent_crimes.pbix) no power Bi ou baixar em pdf.
 
