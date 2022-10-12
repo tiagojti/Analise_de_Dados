@@ -1,4 +1,4 @@
-# Armas Fabricadas Estados Unidos 
+# Armas Fabricadas nos Estados Unidos 
 
 ## Análise de dados de fabricação de armas nos estados unidos desde 1986 até 2019.
 ### O presente relatório e fornecido anualmente pela agencia ATF de armas e explosivos entre outros do governo americano.
