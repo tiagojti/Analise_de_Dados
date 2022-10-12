@@ -1,7 +1,7 @@
-# ANALISE DE DADOS
+# ANáLISE DE DADOS
 
 ## Descrição
-Projeto focado em analise de dados baseado em estudo dos dados fornecido pelos datasets espalhados pelo mundo.
+Projeto focado em análise de dados baseado em estudo dos dados fornecido pelos datasets espalhados pelo mundo.
 
 ## Funcionalidades
 
