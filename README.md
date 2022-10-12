@@ -1,4 +1,4 @@
-# ANáLISE DE DADOS
+# ANÁLISE DE DADOS
 
 ## Descrição
 Projeto focado em análise de dados baseado em estudo dos dados fornecido pelos datasets espalhados pelo mundo.
