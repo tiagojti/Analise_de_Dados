@@ -2,9 +2,9 @@
 
 ## Relatório compartilhado pelo IC3 sobre Crimes de Internet, a maioria dos dados são dos estados unidos.
 
-### Para baixar o arquivo em pdf: github.com/tiagojti/Analise_de_Dados/blob/main/Relat%C3%B3rio%20de%20Crimes%20de%20Internet%202021/Relat%C3%B3rio%20de%20crimes%20internet%202021.pdf
+### Para baixar o arquivo em pdf: www.github.com/tiagojti/Analise_de_Dados/blob/main/Relat%C3%B3rio%20de%20Crimes%20de%20Internet%202021/Relat%C3%B3rio%20de%20crimes%20internet%202021.pdf
 ### Se preferir manipular os dados, use o power BI desktop baixe o arquivo aqui:
-github.com/tiagojti/Analise_de_Dados/blob/main/Relat%C3%B3rio%20de%20Crimes%20de%20Internet%202021/Relat%C3%B3rio%20de%20crimes%20internet%202021.pbix 
+www.github.com/tiagojti/Analise_de_Dados/blob/main/Relat%C3%B3rio%20de%20Crimes%20de%20Internet%202021/Relat%C3%B3rio%20de%20crimes%20internet%202021.pbix 
 
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Relat%C3%B3rio%20de%20Crimes%20de%20Internet%202021/Imagens/Relatorio.JPG)
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Relat%C3%B3rio%20de%20Crimes%20de%20Internet%202021/Imagens/Reclama%C3%A7%C3%B5es%20perdas.JPG)
