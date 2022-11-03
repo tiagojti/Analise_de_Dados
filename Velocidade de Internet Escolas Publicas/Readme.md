@@ -2,7 +2,7 @@
 
 ## Análise dos dados a cerca da intenet em escolas publicas no brasil.
 
-### Os Dados estão Armazenados no NIC.BR
+### Os Dados estão combinado com INPE 2022 e censo escolar 2021
 ### se preferi interagir com os dados acesse o relatório paginado [Aqui](https://app.powerbi.com/view?r=eyJrIjoiODA0NWQzZmEtZTU1OC00MzM2LWIzMjYtNDgyOWRjMzA1NTBhIiwidCI6ImNkNTI3ZWFiLWFhZDMtNGNlNC05NWM3LWMwM2UyYzg1MGUyMSIsImMiOjF9/).
 
 
@@ -13,8 +13,10 @@
 # * A escola com maior velocidade de upload está dividido entre as escolas (EMEI Criança Feliz e CMEI Pequeno Principe) Mato Grosso do Sul, Monteiro Lobato e Rio de Janeiro repectivamente. 
 # * A com menor velocidade de upload e a E. M. Vicente Licinio Rio de Janeio em cardoso
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/Entidade%20por%20regi%C3%A3o.JPG)
-
+#  * A região sudeste e onde tem mais escolas por ser mais populosa são .
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/velocidade%20internet%20light%20mode-escolas%20publicas%20.gif)
-![]()
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/vel.%20jitter%20lat..JPG)
+# * Jitter e uma varição da latmência ao do tempo.
+# * RTT e uma Métrica importante para determinar a integridade de uma conexão em uma rede local ou na internet mais ampla.
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/banda%20larga%20reigao.JPG)
+# * Ainda em 2022 existe escolas que não tem conectividade com a internet, são escolas localisadas ao norte.
