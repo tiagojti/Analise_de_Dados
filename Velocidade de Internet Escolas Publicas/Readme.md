@@ -2,7 +2,7 @@
 
 ## Análise dos dados a cerca da intenet em escolas publicas no brasil.
 
-### Os Dados estão combinado com SIMET Nic.br INEP 2019 e censo escolar 2021
+### Os Dados estão combinados com SIMET Nic.br INEP 2019 e censo escolar 2021
 ### Se preferi interagir com os dados acesse o relatório paginado [Aqui](https://app.powerbi.com/view?r=eyJrIjoiODA0NWQzZmEtZTU1OC00MzM2LWIzMjYtNDgyOWRjMzA1NTBhIiwidCI6ImNkNTI3ZWFiLWFhZDMtNGNlNC05NWM3LWMwM2UyYzg1MGUyMSIsImMiOjF9/).
 ### Também e possivel acessar os dados através do endereço medido de educação conectada [Aqui](https://medidor.educacaoconectada.mec.gov.br/mapa-escola/).
 
