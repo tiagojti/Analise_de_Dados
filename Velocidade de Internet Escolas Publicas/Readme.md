@@ -7,16 +7,16 @@
 
 
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/VEL.down.JPG)
-# * A escola com a maior velocidade está localizada no Mato Grosso do Sul, em Vincentia(EE são josé);
-# * ja a escola com menor velocidade está no Rio de Janeiro (E. M. Espirito Santo).
+### * A escola com a maior velocidade está localizada no Mato Grosso do Sul, em Vincentia(EE são josé);
+### * ja a escola com menor velocidade está no Rio de Janeiro (E. M. Espirito Santo).
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/vel.%20upload1.JPG)
-# * A escola com maior velocidade de upload está dividido entre as escolas (EMEI Criança Feliz e CMEI Pequeno Principe) Mato Grosso do Sul, Monteiro Lobato e Rio de Janeiro repectivamente. 
-# * A com menor velocidade de upload e a E. M. Vicente Licinio Rio de Janeio em cardoso
+### * A escola com maior velocidade de upload está dividido entre as escolas (EMEI Criança Feliz e CMEI Pequeno Principe) Mato Grosso do Sul, Monteiro Lobato e Rio de Janeiro repectivamente. 
+### * A com menor velocidade de upload e a E. M. Vicente Licinio Rio de Janeio em cardoso
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/Entidade%20por%20regi%C3%A3o.JPG)
-#  * A região sudeste e onde tem mais escolas por ser mais populosa são .
+###  * A região sudeste e onde tem mais escolas por ser mais populosa são .
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/velocidade%20internet%20light%20mode-escolas%20publicas%20.gif)
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/vel.%20jitter%20lat..JPG)
-# * Jitter e uma varição da latmência ao do tempo.
-# * RTT e uma Métrica importante para determinar a integridade de uma conexão em uma rede local ou na internet mais ampla.
+### * Jitter e uma varição da latmência ao do tempo.
+### * RTT e uma Métrica importante para determinar a integridade de uma conexão em uma rede local ou na internet mais ampla.
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/banda%20larga%20reigao.JPG)
-# * Ainda em 2022 existe escolas que não tem conectividade com a internet, são escolas localisadas ao norte.
+### * Ainda em 2022 existe escolas que não tem conectividade com a internet, são escolas localisadas ao norte.
