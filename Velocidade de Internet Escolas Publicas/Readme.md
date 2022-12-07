@@ -3,8 +3,8 @@
 ## Análise dos dados a cerca da intenet em escolas publicas no brasil.
 
 ### Os Dados estão combinados com SIMET Nic.br INEP 2019 e censo escolar 2021
-### Se preferi interagir com os dados acesse o relatório paginado [Aqui](https://app.powerbi.com/view?r=eyJrIjoiNmEzYzcxYzYtYTk0Ny00NGNjLWEwYTMtY2JmNTk0MzIxMjRmIiwidCI6ImNkNTI3ZWFiLWFhZDMtNGNlNC05NWM3LWMwM2UyYzg1MGUyMSIsImMiOjF9).
-### Também e possivel acessar os dados através do endereço medido de educação conectada [Aqui](https://medidor.educacaoconectada.mec.gov.br/mapa-escola/).
+### Se preferi interagir com os dados acesse o relatório paginado [Aqui.](https://app.powerbi.com/view?r=eyJrIjoiNmEzYzcxYzYtYTk0Ny00NGNjLWEwYTMtY2JmNTk0MzIxMjRmIiwidCI6ImNkNTI3ZWFiLWFhZDMtNGNlNC05NWM3LWMwM2UyYzg1MGUyMSIsImMiOjF9).
+### Também e possivel acessar os dados através do endereço medidor de educação conectada [Aqui](https://medidor.educacaoconectada.mec.gov.br/mapa-escola/).
 
 
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/VEL.down.JPG)
