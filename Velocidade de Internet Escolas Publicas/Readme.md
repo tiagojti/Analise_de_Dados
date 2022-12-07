@@ -21,4 +21,4 @@
 ### * Jitter e uma varição da latência ao do tempo.
 ### * RTT e uma Métrica importante para determinar a integridade de uma conexão em uma rede local ou na internet mais ampla.
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/banda%20larga%20reigao.JPG)
-### * Ainda em 2022 existe escolas que não tem conectividade com a internet, são escolas localizadas ao norte.
+### * Ainda em 2022 existem escolas sem conectividade com a internet, são escolas localizadas ao norte do brasil.
