@@ -18,7 +18,7 @@
 ### * O centro-oeste junto com o norte com aproximadamente 8,25% cada, representa as menores regiões, a geografia da região e a população que vive em áreas remotas combribui para esse numeros pequeno, a demanda esta limitada a esses eventos. 
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/velocidade%20internet%20light%20mode-escolas%20publicas%20.gif)
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/vel.%20jitter%20lat..JPG)
-### * Jitter e uma varição da latmência ao do tempo.
+### * Jitter e uma varição da latência ao do tempo.
 ### * RTT e uma Métrica importante para determinar a integridade de uma conexão em uma rede local ou na internet mais ampla.
 ![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Velocidade%20de%20Internet%20Escolas%20Publicas/Imagens/banda%20larga%20reigao.JPG)
 ### * Ainda em 2022 existe escolas que não tem conectividade com a internet, são escolas localizadas ao norte.
