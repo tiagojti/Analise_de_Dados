@@ -1,7 +1,7 @@
 # Capital Bike Share
 
 ## Análise de dados da empresa capital bike share.
-### A capital bike share e um serviço de compartilhamento de bicicleta iniciado em meados de 2010, que esta em operação somente na cidade de washingthon D. C.
+### A capital bike share e um serviço de compartilhamento de bicicleta iniciado em meados de 2010, que esta em operação somente na cidade de washingthon D. C. EUA.
 
 ## Curiosidades:
 ### Aproximadamente 32 milhões de registros processados;
