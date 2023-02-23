@@ -9,4 +9,4 @@
 ### No inicio em 2010 o número de estações era de aproximadamente 115 contra mais de 740 em 2022, aumento de  mais de 645%;
 ### Os números de 2022 voltaram para o nível pré-pandemia.
 
-![](
+![](https://github.com/tiagojti/Analise_de_Dados/blob/main/Capitalbikeshare/Imagens/capital%20bike%20share.gif)
